@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TASKS_LOGIN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">LOGIN</string>
+    <string name="signup">SIgn up</string>
+    <string name="phone_number">  Phone number</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="login_with_google"> Login with GOOGLE</string>
+    <string name="sign_up_with_google">Sign up with GOOGLE</string>
+</resources>
